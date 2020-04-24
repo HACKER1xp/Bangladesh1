@@ -48,19 +48,31 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """
-\033[1;96m══▒█████████████████████████▀█████████████  \033[1;91mDWNT COPY YOUR FATHER 🦇
-\033[1;96m══▒█▄─▄─▀██▀▄─██▄─▀█▄─▄█─▄▄▄▄█▄─▄████▀▄─██  \033[1;92mAAHIL UPDATE COMMANDS 🦇
-\033[1;91m══▒██─▄─▀██─▀─███─█▄▀─██─██▄─██─██▀██─▀─██  \033[1;93mWE ARE PAKISTANIS.    🦇
-\033[1;96m══▒▀▄▄▄▄▀▀▄▄▀▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▀▄▄▀  \033[1;94mWE ARE BLACK TIGERS.  🦇
+\033[1;96m╭╮╱╭┳━━━┳━━━┳━━━┳╮╱╭┳╮╱╭╮033[1;91mDWNT COPY YOUR FATHER 🦇
+
+\033[1;96m┃┃╱┃┃╭━╮┃╭━╮┃╭━╮┃┃╱┃┃┃╱┃┃\033[1;92mHarshu UPDATE COMMANDS 🦇
+
+\033[1;96m┃╰━╯┃┃╱┃┃╰━╯┃╰━━┫╰━╯┃┃╱┃┃\033[1;93mWE ARE INDIAN.    🦇
+
+\033[1;96m┃╭━╮┃╰━╯┃╭╮╭┻━━╮┃╭━╮┃┃╱┃┃\033[1;94mWE ARE INDIANTIGERS.  🦇
+
+\033[1;96m┃┃╱┃┃╭━╮┃┃┃╰┫╰━╯┃┃╱┃┃╰━╯┃\033[1;93mSUBCRIBE MY CHENL.    🦇
+
+╰\033[1;96m╯╱╰┻╯╱╰┻╯╰━┻━━━┻╯╱╰┻━━━╯\033[1;94mHarshu x3 Ruchika.  🦇
+
+
+\03
 
 \033[1;96m══║══▒═💀═▒═💀═▒═══¤═¤═¤═════════════════════║🔥
-\033[1;96m══║✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ☪ 𝕸𝖗.𝕽𝖆𝖓𝖆 𝕬𝖆𝖍𝖎𝖑 ║🔥
-\033[1;96m══║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ☪ Aahil Creations ║🔥
-\033[1;96m══║✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊 ☪║🔥
+\033[1;96m══║✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗  🤟𝕸𝖗.𝓗𝓪𝓻𝓼𝓱𝓾 𝓭𝓾𝓫𝓮𝔂 ║🔥
+\033[1;96m══║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊   🤭𝖋𝖇 𝖙𝖗𝖎𝖈𝖐 𝖍𝖔𝖚𝖗║🔥
+\033[1;96m══║✯ 𝓘𝓝𝓓𝓘𝓐𝓝 𝓣𝓡𝓘𝓒𝓚𝓔𝓡 🤭𝓢𝓤𝓑𝓒𝓡𝓘𝓑𝓔
+
+║🔥
 \033[1;96m══║══▒═💀═▒═💀═▒═══¤═¤═¤═════════════════════║🔥"""
 
 jalan("\033[1;96m▬▬▬▬▬ AGR TUM COMMANDS KI COPY KR RAHY HO ")
-jalan("\033[1;96m▬▬▬▬▬ TU US SA TUM AAHIL NI BNJAO GY ")
+jalan("\033[1;96m▬▬▬▬▬ TU US SA TUM Harshu NI BNJAO GY ")
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -90,7 +102,7 @@ print  """
 \033[1;94m•◈••◈••◈•\033[1;95m█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█\033[1;94m•◈••◈••◈•
 \033[1;94m•◈••◈••◈•\033[1;95m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█\033[1;94m•◈••◈••◈•
 \033[1;94m•◈••◈••◈••◈•\033[1;94m••◈••◈••◈••◈••◈••◈••◈••◈•\033[1;94m•◈••◈••◈••◈•
-\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mRanaAahil\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mharshudubey\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 jalan('\033[1;96m▬10%')
 jalan("\033[1;96m▬▬20%")
 jalan('\033[1;96m▬▬▬30%')
@@ -101,10 +113,10 @@ jalan('\033[1;96m▬▬▬▬▬▬▬70%')
 jalan('\033[1;96m▬▬▬▬▬▬▬▬80%')
 jalan('\033[1;96m▬▬▬▬▬▬▬▬▬90%')
 jalan('\033[1;96m▬▬▬▬▬▬▬▬▬100%')
-print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mRana.Aahil\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mharshu.dubey\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "harshu"
+CorrectPassword = "ruchika"
 
 loop = 'true'
 while (loop == 'true'):
@@ -116,10 +128,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.youtube.com/channel/UC3S835IJhJvZiTL04O0AHBg')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.youtube.com/channel/UC3S835IJhJvZiTL04O0AHBg')
 
 def login():
 	os.system('clear')
@@ -309,7 +321,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;31mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print " \033[1;31;40m●💀════════════════════════◄🦇►════════════════════════💀●"
 
-	jalan('             \033[1;31mAahil Started Cloning  Wait...')
+	jalan('             \033[1;31mharshu Started Cloning  Wait...')
 	print  "\033[1;36;40m ●💀════════════════════════◄🦇►════════════════════════💀●" 
 
 	def main(arg):
